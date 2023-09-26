@@ -7,10 +7,9 @@
 "lives":[{"name":"live","type":0,"url":"http://tv.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"drpy_js_榜单荐片","name":"❤更新:9/20❤tv.nxog.top","type":3,"api":"http://tv.nxog.top/m/lib/apiv71apiv71drpy2.min.js","ext":"http://tv.nxog.top/m/lib/drpy.js"},
-{"key": "公告","name": "📢公告","type": 3,"api": "csp_Notice","searchable": 0,"changeable": 0,"ext": "http://nxog.eu.org/nxog/ts/?b=欧歌",
-      "jar":"http://tv.nxog.top/m/jar.php?id=f;md5;8cfcd8600726cbd0dac219ec7d7e1a8b"},
-{"key":"drpy_js_榜单荐片2","name":"📢榜单荐片","type":3,"api":"http://tv.nxog.top/m/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/lib/drpy.js"},
+
+{"key":"drpy_js_榜单荐片","name":"📢榜单荐片","type":3,"api":"http://tv.nxog.top/m/lib/drpy2.min.js","ext":"http://tv.nxog.top/m/lib/drpy.js"},
+{"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zsxmc.github.io/AA影视.json"},
 
 //jar
 {"key":"360_spider","name":"💡360 | 直连","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
