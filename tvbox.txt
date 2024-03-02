@@ -1,12 +1,1 @@
-{
-"urls":[
-{
-"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
-"name":"■教育专线"
-},
-{
-"url":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bN19TzI7v0bItW34UnATQ4RQxABAEwHst4%3D%3A0",
-"name":"学习接口"
-}
-]
-}
+
